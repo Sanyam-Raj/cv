@@ -1,0 +1,68 @@
+/*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width:100%;
+    height:100;
+}
+
+.main{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+}
+
+    color: brown;
+    background-color: black;
+#whatcss {
+    width: 200px;
+    max-width: 500px;
+    height: 900px;
+    max-height: 500px;
+    color: aqua;
+}
+h1{
+    font-family: Playfair Display;
+    color: #000;
+    font-weight: 100;
+    text-transform: capitalize;
+    text-decoration:underline;
+    font-size: 2vw;
+
+}
+h2{
+
+    line-height: 1;
+    text-align: center;
+}
+    */
+/* #box{
+    position:relative ;
+    width: 120px;
+    height: 120px;
+    background-color:rebeccapurple;
+}
+#cube{
+    
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: green;
+} */
+/* #car3{
+   
+    width: 80px;
+    height: 80px;
+    background-color: yellow;
+
+} */
+ #box{
+    width: 200px;
+    height: 200px;
+    background: url(https://imgs.search.brave.com/npwL0KzK-u5zoRyZG1P1cmOLuBl7bhy4pUNcavqgDuo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvcDBoNGU1/bjcya3NkMS5wbmc);
+    background-position: center;
+    background: linear-gradient(to right,red,green);
+    
+}

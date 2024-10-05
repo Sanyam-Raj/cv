@@ -1,0 +1,4 @@
+//colur = text colour 
+//background color= background ka color
+//target a tag in css to modify  like h1 ,h2 tag,div
+//div can  be initialize by 1> div   2>using id   3>using .class
